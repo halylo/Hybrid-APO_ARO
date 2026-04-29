@@ -160,12 +160,4 @@ Script tại:
 This research is conducted by a group of students from  
 **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 
----
-
-## ⭐ Hướng phát triển
-
-* Thêm nhiều benchmark (CEC, IEEE)
-* So sánh statistical (mean, std, Wilcoxon test)
-* Parallel computing
-* GUI visualization
 
